@@ -7,6 +7,8 @@ This app retrieves a list of rewards from https://fetch-hiring.s3.amazonaws.com/
 
 ## Usage
 1. Open Android Studio.
-2. Navigate to File > New > Project From Version Control > Git.
-3. In the URL field, input `git@github.com:thephat296/fetch.git`.
+2. Open terminal and do git clone for below link
+3. In the URL field, input `(https://github.com/shubhampatel007889/Android-App.git)`.
 
+## How to run
+1. Just run the app from the top, have written some test cases too and tried to maintain the clear approach of coding
